@@ -1,0 +1,24 @@
+---
+
+### .gitignore
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CSV data file
+employee_attendance.csv
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Mac OS
+.DS_Store
+
+# VS Code
+.vscode/
